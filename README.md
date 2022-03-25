@@ -1,11 +1,12 @@
 <h1 align="center">Olá 👋, eu sou a Tassia Carvalho</h1>
 <h3 align="center">Professora em disciplinas de Programação (Front-end e Back-end)</h3>
 
-- 🌱 Eu estou me aprofundando **Spring, React, Angular**
+- 🌱 Estou me aprofundando **Spring, React, Angular**
 
 - 💬 Me pergunte sobre **Java, JSP, HTML, CSS, JavaScript**
 
 - 📫 Contato **tassia.sc@hotmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
