@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou a Tassia Carvalho</h1>
-<h3 align="center">Professora em disciplinas de Programação (Front-end e Back-end)</h3>
+<h3 align="center">Dev Fullstack | Java | Spring Boot | Professora e Coordenadora do curso técnico em Desenvolvimento de Sistemas e do técnico em Informática para Internet</h3>
 
-- 🌱 Estou me aprofundando **Spring, React, Angular**
+- 🌱 Estou me aprofundando **Spring, Angular**
 
 - 💬 Me pergunte sobre **Java, JSP, HTML, CSS, JavaScript**
 
