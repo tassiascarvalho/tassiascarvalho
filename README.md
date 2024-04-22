@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Java, JSP, HTML, CSS, JavaScript**
 
-- 📫 Contato **tassia.sc@hotmail.com**
+- 📫 Contato **tassia.scarvalho7@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
