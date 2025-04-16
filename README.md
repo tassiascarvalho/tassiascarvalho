@@ -13,16 +13,17 @@ Profissional com sólida experiência em análise funcional e desenvolvimento de
 
 🎯 **Atualmente focada em**  
 - Ciência de Dados - Python
-- Desenvolvimento com Spring Boot + Thymeleaf  
-- Integrações RESTful  
-- Banco de dados MySQL e SQL Server  
-- Frontend com HTML, CSS, JS e Bootstrap  
+- Machine Learning  
+- Inteligência Computacional
 
 💡 **Tenho conhecimento em**  
-- Metodologias ágeis (Scrum)  
-- Análise e documentação de requisitos  
-- UX Writing básico  
-- Adobe Photoshop e Illustrator  
+- **Informática na óptica do utilizador**: Microsoft Office, Redes Sociais, Suporte de software e hardware
+- **Back-End**: Java, API RESTful, Spring Framework, Programação Orientada a Objetos (P.O.O.), Servlet
+- **Front-End**: HTML, CSS, JavaScript, Bootstrap
+- **Bases de Dados**: PostgreSQL, SQL Server, Firebird
+- **Engenharia de Software**: UML, Análise Funcional, Gestão de Projetos (PMBOK, Métodos Ágeis)
+- **Sistemas e Ferramenta**s: ERP, CRM, Business Intelligence (BI), Active Directory, Servidor Windows
+- **Design e Ferramentas de Edição**: Pacote Adobe, Canva, Figma
 
 🛠️ **Tecnologias e ferramentas**  
 <p>
@@ -39,10 +40,10 @@ Profissional com sólida experiência em análise funcional e desenvolvimento de
 </p>
 
 ---
+
 💼 **Evolução Profissional**
 
 Durante minha atuação anterior como professora no Brasil, os projetos em que estive envolvida não exigiam o uso de versionamento com Git. Atualmente, estou focada ampliar os portfólios aqui no GitHub, organizando e publicando projetos que refletem minha evolução e práticas atuais de desenvolvimento.
-
 
 📫 **Vamos conversar?**  
 Estou aberta a novas oportunidades e colaborações. Entre em contacto por [e-mail](mailto:tassia.scarvalho7@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/tassiasilvacarvalho/).
