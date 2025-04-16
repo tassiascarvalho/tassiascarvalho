@@ -39,6 +39,10 @@ Profissional com sólida experiência em análise funcional e desenvolvimento de
 </p>
 
 ---
+💼 **Evolução Profissional**
+
+Durante minha atuação anterior como professora no Brasil, os projetos em que estive envolvida não exigiam o uso de versionamento com Git. Atualmente, estou focada ampliar os portfólios aqui no GitHub, organizando e publicando projetos que refletem minha evolução e práticas atuais de desenvolvimento.
+
 
 📫 **Vamos conversar?**  
 Estou aberta a novas oportunidades e colaborações. Entre em contacto por [e-mail](mailto:tassia.scarvalho7@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/tassiasilvacarvalho/).
