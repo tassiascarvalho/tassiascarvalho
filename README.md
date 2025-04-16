@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Olá, eu sou a Tássia Carvalho</h1>
+<h1 align="center">👩‍💻 Olá, eu sou a Tassia Carvalho</h1>
 <h3 align="center">Analista Funcional | Desenvolvedora Fullstack Java | Apaixonada por tecnologia</h3>
 
 <p align="center">
