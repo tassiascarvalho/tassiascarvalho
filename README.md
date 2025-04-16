@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, eu sou a Tassia Carvalho</h1>
-<h3 align="center">Dev Fullstack | Java | Spring Boot </h3>
+<h3 align="center">Analista Funcionas | Dev Fullstack | Java | Spring Boot </h3>
+<h3 align="center">Aprendendo sempre...</h3>
 
 - 🌱 Estou me aprofundando **Spring, Angular**
 
