@@ -9,7 +9,7 @@
 ---
 
 🔍 **Sobre mim**  
-Profissional com sólida experiência em análise funcional e desenvolvimento de sistemas, especialmente com tecnologias Java e Spring Boot. Tenho atuado na modelagem de soluções, levantamento de requisitos, testes, documentação e desenvolvimento de aplicações web fullstack.
+Profissional com sólida experiência em análise funcional e desenvolvimento de sistemas. Tenho atuado na modelagem de soluções, levantamento de requisitos, documentação e desenvolvimento de aplicações web fullstack.
 
 🎯 **Atualmente focada em**  
 - Ciência de Dados - Python
